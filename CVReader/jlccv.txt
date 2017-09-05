@@ -1,0 +1,39 @@
+﻿Jack L. Clements
++447976723549 | jackclements95@gmail.com 
+linkedin.com/in/jack-l-clements | github.com/JackLClements
+ 143 Cherry Garden Lane, Newport, Saffron Walden, Essex, United Kingdom, CB11 3QW 
+
+
+A detail-oriented and intellectually curious programmer with an aptitude for problem solving. I am self-motivated and appreciate the need to be thorough in all aspects of my work. I recognise the need for organised planning, prototyping and following agile methodologies to produce a quality end product.
+Skills
+* General programming skills transferrable between all languages, including compilers/interpreters, procedural, functional and object-oriented programming, libraries and threaded programming.
+* Engaged in high level research, working as part of University of East Anglia’s Machine Learning group. Research done during this period was later used as the basis for the dissertations of two third-year undergraduates.
+* Extensive experience with numerous programming languages (Java, C/C++, C#, F#, Python, etc.)
+* Experience developing practical distributed systems utilising both client-server and peer-to-peer architectures, total and causal ordering/clock synchronisation, multi-threading, election algorithms and TCP/UDP protocols.
+* Knowledge of system architectures, having written embedded machine language code for both ARM test hardware and Intel Atom hardware (Nao robot).
+* Agile, test-driven phased software development, including development on an expanded WEKA-based framework, as well as creation of an Android Wear app to be used in Human Activity Recognition research.
+* Knowledge of several specific fields including networking, machine learning, graphics, sound/image processing, servlet-based backend, SQL, etc.
+* Clear and concise communication skills, through comments and documentation in code and project version management systems (Git, Mercurial, etc.)
+Education
+MComp (MSc equivalent) Computing Science, University of East Anglia (2013-2017) - Upper Second Class (3.5 GPA)
+Areas studied include: two graphics-based modules, three software engineering modules, distributed computing, data mining, architectures/operating systems, embedded systems programming, networking, web development and sound & image, as well as a master’s dissertation written on Multivariate Time Series Classification.
+Saffron Walden County High School Sixth Form, A-Levels (2011-2013)
+- Computing: B (with two A grades in individual modules)
+- Media Studies: B (with two A* grades in individual modules)
+- Mathematics: D (with three B grades in individual modules)
+Mountfitchet Maths & Computing College, GCSE’s (2006-2011)
+- 11 A*-C grade GCSEs (with A’s in Mathematics, English & Chemistry) 
+Previous Experience
+Livewire 1350 - (2013-2015)
+* Producer and co-host of “The Film Review” an award-nominated factual entertainment program on student radio station Livewire 1350, duties included writing reviews, organising screenings and deciding which members of the team would appear in which segments, allowing me to gain public speaking, time management and organisational skills.
+* Producer for classic rock show “Rock Solid”, duties included arranging playlists, managing the equipment and ensuring that content was suitable for broadcast.
+Saffron Walden County High School Administrative Team - (2013) 
+* Worked alongside a small team of teachers and support staff developing and maintaining a variety of projects. 
+* Flexible working environment, allowing me to move between projects where my skills were required and the ability to contribute in an open and constructive environment
+* Helped maintain and update their virtual learning environment via use of their proprietary front end tools, giving experience with working specific specialised software.
+* Collaborated with teaching staff in designing a course and materials to teach students the fundamental skills common to computer science. Content was well received by staff and students.
+
+
+HMV Retail Ltd. - Cambridge Store Team (2009) 
+* Worked with retail chain HMV, performing typical retail duties, including leading a team of individuals during stock-taking activities and interacting with customers.
+-References Available Upon Request-
